@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hackathonfinder/static/css/main.cae1310e.css",
+    "main.js": "/Hackathonfinder/static/js/main.051ebde1.js",
+    "static/js/453.c18da8cd.chunk.js": "/Hackathonfinder/static/js/453.c18da8cd.chunk.js",
+    "index.html": "/Hackathonfinder/index.html",
+    "main.cae1310e.css.map": "/Hackathonfinder/static/css/main.cae1310e.css.map",
+    "main.051ebde1.js.map": "/Hackathonfinder/static/js/main.051ebde1.js.map",
+    "453.c18da8cd.chunk.js.map": "/Hackathonfinder/static/js/453.c18da8cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cae1310e.css",
+    "static/js/main.051ebde1.js"
+  ]
+}
